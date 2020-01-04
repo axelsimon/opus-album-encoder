@@ -9,7 +9,7 @@ Usage is:
 Download the script and make it executable.
 For instance:
 ```
-curl -LO https://github.com/axelsimon/opus-album-encoder/raw/master/album_FLAC_Opus_encoder.sh ~/.local/bin
+curl -L https://github.com/axelsimon/opus-album-encoder/raw/master/album_FLAC_Opus_encoder.sh -o ~/.local/bin/album_FLAC_Opus_encoder.sh
 chmod +x ~/.local/bin/album_FLAC_Opus_encoder.sh
 ```
 # Dependencies
